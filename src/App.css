@@ -1,0 +1,32 @@
+.head {
+    text-align: center;
+}
+
+
+/* .coin {
+    height: 25px;
+    width: 25px;
+} */
+
+img {
+    height: 25vh;
+}
+
+.button {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 10%;
+}
+
+.button4 {
+    border-radius: 50px;
+}
